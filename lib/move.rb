@@ -7,3 +7,6 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+puts "Welcome to Tic Tac Toe!"
+puts "Please enter 1-9:"
+input = gets.strip
